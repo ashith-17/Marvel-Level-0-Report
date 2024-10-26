@@ -1,4 +1,4 @@
-﻿# Marvel-Level-0-Report
+﻿# Marvel-Level-0-Report 
 
 # Generic Tasks
 
@@ -16,7 +16,7 @@ I learned the basic knowledge about it such as:
 2.  **Printer Settings**:Key settings like layer height, infill density, print speed, and bed temperature, as they directly affect print quality and durability.
 3.  **Slicing Software**:Slicing softwares (e.g., Ultimaker Cura) to convert 3D models into instructions such that the printer can understand, adjusting settings to optimize my print.Top of FormBottom of Form
 
-![](media/ef51e1a54e44bd8595742dbfa6f52a06.png)
+![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/m%2C.png)
 
 ## TASK 2: API
 
