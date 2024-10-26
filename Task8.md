@@ -1,4 +1,4 @@
-## Introduction to Machine Learning
+# Introduction to Machine Learning
 # Introduction
 Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that learn from data, identify patterns, and make decisions with minimal human intervention. As data becomes increasingly available, the significance of machine learning continues to grow across various industries, from healthcare to finance. This article provides an overview of machine learning, its types, algorithms, and applications.
 # What is Machine Learning?
