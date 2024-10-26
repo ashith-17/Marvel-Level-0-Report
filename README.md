@@ -114,11 +114,35 @@ I created a website to showcase my portfolio - about myrself, interests, project
 
 This is the link to the code - https://github.com/ashith-17/portfolio-website.git
 
-TASK 8:RESOURCE ARTICLE USING MARKDOWN
+## TASK 8:RESOURCE ARTICLE USING MARKDOWN
 
-TASK INCOMPLETE
+Learning Markdown has been a transformative experience for me, enhancing both my writing and coding skills. Here are some key takeaways from my journey:
 
-TASK 9:TINKERCAD
+ 1. Simplicity and Efficiency
+Markdown's syntax is straightforward and easy to remember, which has made writing structured documents efficient. The ability to format text, create headers, lists, and links with minimal effort has streamlined my workflow. 
+
+ 2. Enhanced Focus on Content
+By using Markdown, I can focus more on the content rather than getting bogged down by formatting issues. The clean syntax allows me to draft my thoughts quickly, which has significantly improved my productivity.
+
+ 3. Versatility Across Platforms
+One of the most significant advantages I've found is Markdown's versatility. Whether I'm writing documentation on GitHub, creating blog posts, or drafting notes in VS Code, Markdown's compatibility ensures that my content looks consistent across various platforms.
+
+ 4. Learning Resources
+I utilized various resources to learn Markdown effectively, including:
+- **Online Tutorials**: Websites like [Markdown Guide](https://www.markdownguide.org/) provided comprehensive insights into syntax and best practices.
+- **Practice Platforms**: Experimenting with Markdown in environments like GitHub and various Markdown editors allowed me to apply what I learned in real-time.
+
+ 5. Application in Projects
+Incorporating Markdown into my projects has made documentation clearer and more accessible. I've been able to create README files, write tutorials, and maintain clear notes, all formatted beautifully without much hassle.
+
+Here's a example of a Resource Article on "Introduction to machine learning" which I wrote using Markdown
+Github link-[GitHub](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/Task8.md)
+
+
+ Conclusion
+Overall, learning Markdown has been incredibly beneficial. It has not only improved my writing skills but also equipped me with a powerful tool for clear communication in the tech world. I look forward to continuing to refine my Markdown skills and exploring its full potential in my future projects.
+
+## TASK 9:TINKERCAD
 
 ![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/jbg.png)
 
