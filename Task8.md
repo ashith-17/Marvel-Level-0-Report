@@ -61,8 +61,11 @@ model.fit(X, y)
 
 # Make a prediction
 prediction = model.predict([[0.5, 0.5]])
-print(prediction)  # Output: [0] or [1]
+print(prediction)
+# Output: [0] or [1]
 ****
+``` 
+
 ## 3. K-Means Clustering
 K-Means is an unsupervised learning algorithm used to partition data into K distinct clusters based on feature similarity.
 
@@ -78,6 +81,7 @@ kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
 # Predict the cluster for a new point
 prediction = kmeans.predict([[0, 0]])
 print(prediction)  # Output: cluster index
+```
 
 ## Applications of Machine Learning
 Machine learning is applied in various fields, including:
