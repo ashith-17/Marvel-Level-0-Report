@@ -70,7 +70,7 @@ ERROR CORRECTION:
 
 ## TASK 4:UBUNTU COMMAND LINE
 
-![](media/5f9ce51cefd19431cfe0493d3f6b0097.png)
+![](,jg.png)
 
 It is a free operating system that is used in major data repository. Getting in command with ubuntu taught me many commands like which are used to create a folder or store some information in that folder.
 
